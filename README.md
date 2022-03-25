@@ -2,4 +2,4 @@
 
 El problema consiste basicamente en la existencia de una bodega más conocida como buffer, donde un productor puede ingresar cualquier cantidad de elementos siempre y cuando haya espacio en el buffer y habra un consumidor el cual puede extraer elementos del buffer siempre y cuando este no se encuentre vacio.
 
-Integrantes: Jhan Alejandro Perez, Danilo, Alejandro
+Integrantes: Jhan Alejandro Perez, Danilo Arevalo, Alejandro Montero
